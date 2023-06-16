@@ -1,0 +1,23 @@
+evento1 = ("casamento", "12/06/2022", "igreja", ["400 "])
+evento2 = ("aniversario", "16/02/2006", "clube", ["100 "])
+evento3 = ("formatura", "14/12/2024", "teatro", ["100"])
+
+print("Detalhes do Evento 1:")
+print("Nome:", evento1[0])
+print("Data:", evento1[1])
+print("Local:", evento1[2])
+print("Participantes:", evento1[3])
+print()
+
+print("Detalhes do Evento 2:")
+print("Nome:", evento2[0])
+print("Data:", evento2[1])
+print("Local:", evento2[2])
+print("Participantes:", evento2[3])
+print()
+
+print("Detalhes do Evento 3:")
+print("Nome:", evento3[0])
+print("Data:", evento3[1])
+print("Local:", evento3[2])
+print("Participantes:", evento3[3])

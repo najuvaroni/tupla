@@ -1,0 +1,21 @@
+ctt1 = ("ana", '9912345', "ana@gmail")
+ctt2 = ("gio", "16022006", 'gio@gmail')
+ctt3  = ("sarah", "14122024",'sarah@gmail')
+
+print("Detalhes do contato 1:")
+print("Nome:", ctt1[0])
+print("telefone:", ctt1[1])
+print("email:", ctt1[2])
+print()
+
+print("Detalhes do contato 2:")
+print("Nome:", ctt2[0])
+print("telefone:", ctt2[1])
+print("email:", ctt2[2])
+print()
+
+print("Detalhes do contato 3:")
+print("Nome:", ctt3[0])
+print("telefone:", ctt3[1])
+print("email:", ctt3[2])
+print()
